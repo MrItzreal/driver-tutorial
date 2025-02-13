@@ -25,6 +25,6 @@ jobs:
 
 # CI: Continuous Integration is a development practice where developers regularly merge their code changes into a central repository, after which automated build and test sequences are run. The goal is to identify integration problems early and often.
 
-#The filename ci.yaml is a common convention, but it could be named something else.
+# The filename ci.yaml is a common convention, but it could be named something else.
 
 # What is YAML? YAML is one of the most popular data serialization languages, and it is used mostly for writing configuration files. The YAML recursive acronym stands for YAML: Yet Another Markup Language or Ain't Markup Language. This language is designed with flexibility and accessibility in mind, so it's human-readable and simple to understand.
