@@ -15,3 +15,6 @@ export default {
     ssl: {},
   },
 } satisfies Config;
+
+
+// Object-Relational Mapping (ORM): Drizzle ORM is a tool that helps you interact with your database using objects and code, rather than writing raw SQL queries. This makes your code more readable, maintainable, and less prone to errors.
